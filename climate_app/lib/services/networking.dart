@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-import 'package:climate_app/services/location.dart';
 import 'package:http/http.dart';
 import 'dart:convert';
 
