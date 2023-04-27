@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073997718107",
+    "project_id": "chat-app-87014",
+    "storage_bucket": "chat-app-87014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073997718107:android:4b39c74251fbc07311d57e",
+        "android_client_info": {
+          "package_name": "com.zhtech.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073997718107-2b7j0ssv83s51o8u0gj2ho3fnkljjrtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qTzwxyA9LHiEeLgydOE4Y6NhpzgJwmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073997718107-2b7j0ssv83s51o8u0gj2ho3fnkljjrtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
